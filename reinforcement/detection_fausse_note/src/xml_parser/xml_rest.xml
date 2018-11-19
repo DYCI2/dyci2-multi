@@ -1,0 +1,6 @@
+      <note>
+        <rest/>
+        <duration>$duration</duration>
+        <voice>1</voice>
+        <type>$type</type>
+      </note>

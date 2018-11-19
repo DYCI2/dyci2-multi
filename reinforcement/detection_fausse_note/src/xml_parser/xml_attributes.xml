@@ -1,0 +1,34 @@
+    <measure number="1">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+          </system-margins>
+          <top-system-distance>170.00</top-system-distance>
+        </system-layout>
+      </print>
+      <attributes>
+        <divisions>$divisions</divisions>
+        <key>
+          <fifths>$key</fifths>
+        </key>
+        <time>
+          <beats>$beats</beats>
+          <beat-type>$beat_type</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <direction placement="above">
+        <direction-type>
+          <metronome parentheses="no">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>$per_minute</per-minute>
+          </metronome>
+        </direction-type>
+        <sound tempo="$per_minute"/>
+      </direction>
+    </measure>

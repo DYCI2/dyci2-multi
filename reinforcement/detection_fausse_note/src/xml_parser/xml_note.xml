@@ -1,0 +1,12 @@
+      <note>
+        <pitch>
+          <step>$step</step>
+          <alter>$alter</alter>
+          <octave>$octave</octave>
+        </pitch>
+        <duration>$duration</duration>
+        <voice>1</voice>
+        <type>$type</type>
+        <accidental>$accident</accidental>
+        <stem>down</stem>
+      </note>

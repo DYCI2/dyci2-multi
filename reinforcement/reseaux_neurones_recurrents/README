@@ -1,0 +1,29 @@
+gru_croissant.py :
+	- Entrainement de l architecture a historique croissant.
+	- Param : (1) nom du model (pour sauvegarde des parametres).
+
+gru_glissant.py :
+	- Entrainement de l architecture a historique glissant.
+	- Param : (1) nom du model (pour sauvegarde des parametres).
+
+gru_parallele.py:
+	- Entrainement de l architecture a historique parallele.
+	- Param : (1) nom du model (pour sauvegarde des parametres), (2) position de la note a predire
+
+loss_croissant.py : 
+	- Calcule de l erreur aux differentes positions pour l architecture a historique croissant.
+	- Param : (1) le nom du model a charger
+
+loss_glissant.py :
+	- Calcule de l erreur aux differentes positions pour l architecture a historique glissant.
+	- Param : (1) le nom du model a charger
+
+loss_parallele.py :
+	- Calcule de l erreur aux differentes positions pour l architecture a historique parallele.
+	- Param : (1) le nom du model (qui correspond au numero de la position a predire)
+
+
+
+	
+
+

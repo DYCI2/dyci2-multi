@@ -1,0 +1,7 @@
+      <harmony print-frame="no">
+        <root>
+          <root-step>$step</root-step>
+          <root-alter>$alter</root-alter>
+        </root>
+        <kind>$kind</kind>
+      </harmony>
