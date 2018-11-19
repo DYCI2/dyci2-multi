@@ -1,0 +1,73 @@
+I___ <=> I7___
+IV_ <=> IV7_
+IV7_IV- ==> IV7 + IV-
+IV_ <=> IV7_IV-
+IV7_#IVo ==> IV7 + #IVo
+IV_ <=> IV7_#IVo
+IV_#IVo ==> IV + #IVo
+IV_ <=> IV_#IVo
+IV_IV- ==> IV + IV-
+IV_ <=> IV_IV-
+IV_bVII7 ==> IV + bVII7
+IV_ <=> IV_bVII7
+III-_bIII7 ==> III- + bIII7
+V-_I7 ==> V- + I7
+I7_ <=> V-_I7
+III-_VI7 ==> III- + VI7
+III-_bIII7 <=> III-_VI7
+I_VI7 ==> I + VI7
+III-_bIII7 <=> I_VI7
+I_I7 ==> I + I7
+I7_ <=> I_I7
+I7_VI7 ==> I7 + VI7
+III-_bIII7 <=> I7_VI7
+II-_V7 ==> II- + V7
+II-__V7_ ==> II-_ + V7_
+V7___ <=> II-__V7_
+III-__VI7_ ==> III-_ + VI7_
+VI7___ <=> III-__VI7_
+VI-__II7_ ==> VI-_ + II7_
+II7___ <=> VI-__II7_
+VII-__III7_ ==> VII-_ + III7_
+III7___ <=> VII-__III7_
+I7__IV_ ==> I7_ + IV_
+I7__II-_V7 ==> I7_ + II-_V7
+III-_bIII7_II-_V7 ==> III-_bIII7 + II-_V7
+I7__II-_V7 <=> III-_bIII7_II-_V7
+I__II-_V7 ==> I_ + II-_V7
+I7__II-_V7 <=> I__II-_V7
+II-_V7_I_ ==> II-_V7 + I_
+I___ <=> II-_V7_I_
+II7____V7___ ==> II7___ + V7___
+III7____VI7___ ==> III7___ + VI7___
+I7__IV__I___ ==> I7__IV_ + I___
+III7____VI7____II7____V7___ ==> III7____VI7___ + II7____V7___
+I7__II-_V7_I7__IV_ ==> I7__II-_V7 + I7__IV_
+I7__II-_V7_I7__II-_V7_I7__IV_ ==> I7__II-_V7 + I7__II-_V7_I7__IV_
+I7__II-_V7_I7__IV__I___ ==> I7__II-_V7 + I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7 + I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7 ==> I7__II-_V7_I7__II-_V7_I7__IV_ + I7__II-_V7
+I7__II-_V7_I7__II-_V7_I7__IV__I____III7____VI7____II7____V7___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I___ + III7____VI7____II7____V7___
+III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> III7____VI7____II7____V7___ + I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I____III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I____III7____VI7____II7____V7___ + I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7 + III7____VI7____II7____V7___
+I7__II-_V7_I7__II-_V7_I7__IV__I____III7____VI7____II7____V7___ <=> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I____III7____VI7____II7____V7___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7 + I7__II-_V7_I7__II-_V7_I7__IV__I____III7____VI7____II7____V7___
+I7__II-_V7_I7__II-_V7_I7__IV__I____III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ <=> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I____III7____VI7____II7____V7___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7 + III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7 + I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I____III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I____I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7 ==> I7__II-_V7_I7__II-_V7_I7__IV__I____III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ + I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ <=> I7__II-_V7_I7__II-_V7_I7__IV__I____III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I____I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I____III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7 + I7__II-_V7_I7__II-_V7_I7__IV__I____III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ <=> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I____III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I____I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ + I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I____I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ + I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I____I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ + I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I____I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ + I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I____I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ + I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I____I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ + I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I____I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ + I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I____I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ + I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I____I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ + I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I____I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ + I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___
+I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I____I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ ==> I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___ + I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_I7__II-_V7_I7__II-_V7_I7__IV__I7__II-_V7_III7____VI7____II7____V7____I7__II-_V7_I7__II-_V7_I7__IV__I___
